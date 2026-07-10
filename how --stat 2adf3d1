@@ -1,0 +1,9 @@
+[33m9e4428c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mkauankrilm-hero-premium-redesign[m[33m)[m HEAD@{0}: reset: moving to 9e4428c
+[33mf7d358b[m HEAD@{1}: reset: moving to HEAD~2
+[33m174f91c[m HEAD@{2}: revert: Revert "feat: redesign hero section to premium level"
+[33m2cb1345[m HEAD@{3}: revert: Revert "fix: improve mission commander panel visibility"
+[33mf7d358b[m HEAD@{4}: reset: moving to f7d358b
+[33m9e4428c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mkauankrilm-hero-premium-redesign[m[33m)[m HEAD@{5}: reset: moving to 9e4428c
+[33mf7d358b[m HEAD@{6}: commit: fix: improve mission commander panel visibility
+[33m2adf3d1[m HEAD@{7}: commit: feat: redesign hero section to premium level
+[33m9e4428c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mkauankrilm-hero-premium-redesign[m[33m)[m HEAD@{8}: clone: from https://github.com/KauanKrilM/portfolio-2026.git
