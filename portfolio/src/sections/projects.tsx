@@ -11,7 +11,7 @@ export default function Projects() {
       <SectionShell
         id="projetos"
         eyebrow="04 / Planetary archive"
-        title="Projetos como planetas: cada um com atmosfera, função e tecnologia."
+        title="Uma coleção de projetos que refletem minha evolução técnica, criatividade e paixão por desenvolver software."
         className="bg-[radial-gradient(circle_at_50%_50%,rgba(91,33,182,0.18),transparent_38%),radial-gradient(circle_at_15%_75%,rgba(212,175,55,0.12),transparent_32%),radial-gradient(circle_at_85%_25%,rgba(212,175,55,0.08),transparent_30%),linear-gradient(180deg,#030712_0%,#0A0F1E_100%)]"
         cosmicGridOpacity="0.22"
       >

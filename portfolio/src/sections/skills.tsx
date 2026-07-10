@@ -36,7 +36,7 @@ export default function Skills() {
     <SectionShell
       id="skills"
       eyebrow="03 / Habilidades"
-      title="Competências organizadas como sistemas, não como inventário."
+      title="Ferramentas que utilizo para transformar ideias em produtos digitais."
       className="bg-[radial-gradient(circle_at_25%_15%,rgba(91,33,182,0.14),transparent_32%),radial-gradient(circle_at_75%_85%,rgba(212,175,55,0.1),transparent_28%),linear-gradient(180deg,#030712_0%,#090B15_100%)]"
       cosmicGridOpacity="0.25"
     >

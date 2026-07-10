@@ -1,10 +1,10 @@
 import SectionShell from "../components/section-shell";
 
 const highlights = [
-  "Organizacao, tratamento e acompanhamento de dados",
+  "Organizacão, tratamento e acompanhamento de dados",
   "Apoio a processos internos e rotinas operacionais",
-  "Analises para melhor leitura de informacoes de negocio",
-  "Contato pratico com BI, planilhas, SQL, Python e automacao",
+  "Análises para melhor leitura de informacões de negócio",
+  "Contato prático com BI, planilhas, SQL, Python e automacão",
 ];
 
 export default function Experience() {
@@ -12,8 +12,8 @@ export default function Experience() {
     <SectionShell
       id="experiencia"
       eyebrow="02 / Flight record"
-      title="Experiencia em dados com impacto operacional."
-      description="A experiencia na TH Energia Solar e apresentada como missao real: entender informacoes, organizar processos e entregar clareza para tomada de decisao."
+      title="Experiência em dados com impacto operacional."
+      description="A experiência na TH Energia Solar e apresentada como missão real: entender informacões, organizar processos e entregar clareza para tomada de decisão."
       className="bg-[radial-gradient(circle_at_35%_30%,rgba(91,33,182,0.12),transparent_38%),radial-gradient(circle_at_65%_70%,rgba(212,175,55,0.08),transparent_32%),linear-gradient(180deg,#030712_0%,#090B15_100%)]"
       cosmicGridOpacity="0.15"
     >
@@ -23,9 +23,9 @@ export default function Experience() {
             TH Energia Solar
           </p>
           <h3 className="mt-4 text-3xl font-bold text-stellar-100">
-            Estagiario de Analista de Dados
+            Estagiário de Analista de Dados
           </h3>
-          <p className="mt-4 text-stellar-400">Aproximadamente 2 anos</p>
+          <p className="mt-4 text-stellar-400">Aproximadamente 1 ano</p>
         </div>
 
         <div className="grid gap-4 sm:grid-cols-2">
