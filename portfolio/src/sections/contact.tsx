@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { FaEnvelope, FaGithub, FaInstagram, FaLinkedinIn, FaPhone } from "react-icons/fa";
+import { FaEnvelope, FaGithub, FaInstagram, FaLinkedinIn, FaWhatsapp } from "react-icons/fa";
 import SectionShell from "../components/section-shell";
 
 const contacts = [
@@ -22,10 +22,10 @@ const contacts = [
     href: "https://www.instagram.com/_rebelo.kauan",
   },
   {
-    icon: FaPhone,
-    name: "Telefone",
-    info: "(82) 99394-6005",
-    href: "tel:+5582993946005",
+  icon: FaWhatsapp,
+  name: "WhatsApp",
+  info: "(82) 99394-6005",
+  href: "https://wa.me/5582993946005",
   },
   {
     icon: FaEnvelope,
